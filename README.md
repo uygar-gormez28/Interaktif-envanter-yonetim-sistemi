@@ -1,73 +1,51 @@
-# React + TypeScript + Vite
+# 🏢 İnteraktif Belediye IT Envanter Yönetimi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, kurum içindeki bilişim cihazlarının yönetimini ve geçmiş kayıtlarını tek bir merkezden, interaktif biçimde yönetmek için geliştirilmiş modern bir otomasyon sistemidir.
 
-Currently, two official plugins are available:
+<div align="center">
+  <img src="C:/Users/uygrg/.gemini/antigravity/brain/43a108f1-3a51-476a-a69b-2b3327121e4a/department_search_1773276894550.png" width="600" alt="Müdürlük Arama Ekranı" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚨 Problem
 
-## React Compiler
+Klasik IT yönetim süreçlerinde bir personel, cihazların aktiflik durumunu kontrol etmek, kimde hangi özelliklerde PC olduğunu bilmek veya arızaları teyit etmek için **her gün tüm katları ve müdürlükleri tek tek gezmek** zorunda kalmaktadır. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Ayrıca "Geçen ay bu bilgisayarın RAM'ini kim değiştirmişti?", "Bu makine neden depoda bekliyor?" gibi soruları yanıtlamak, klasik Excel veya kağıt dökümleriyle adeta bir kabustur. Zaman ve iş gücü israfı kaçınılmazdır.
 
-## Expanding the ESLint configuration
+## 💡 Çözüm 
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+IT personelinin kat kat gezme ihtiyacını ortadan kaldıran; müdürlük bazlı, **akıllı ve canlı** bir envanter sistemi geliştirdik. Sistem şunları sağlar:
+- **Merkezi Görünürlük:** Cihazların hangi katta, hangi ip adresiyle ve hangi arıza durumuyla bulunduğu anlık olarak ekranınızda.
+- **Donanım Arşivi (Zaman Makinesi):** Bir bilgisayarın işlemcisi veya belleği değiştiğinde; değişikliğin yapıldığı tarihi ve donanımın *önceki* halini kalıcı olarak sistemde -bir snapshot şeklinde- tutar.
+- **Akıllı Arama:** Sadece arama barıyla saniyeler içinde müdürlükleri bulabilme imkânı.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+<div align="center">
+  <img src="C:/Users/uygrg/.gemini/antigravity/brain/43a108f1-3a51-476a-a69b-2b3327121e4a/inventory_dashboard_1773276878082.png" width="600" alt="Müdürlük İstatistikleri ve PC Listesi" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## ✨ Temel Özellikler
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+1. **Dinamik Müdürlük Seçimi:** 10+ Farklı müdürlüğe anında ulaşın ve içerideki eksiksiz döküme erişin.
+2. **Dashboard & İstatistikler:** O departmanda toplam kaç bilgisayar var, kaçı "Aktif", "Pasif" veya "Arızalı"? Hepsini modern kartlarda görüntüleyin.
+3. **Detaylı Özellik Kartları:** PC'ye tıklayarak İşlemci, RAM, Depolama, ve Ekran Kartı gibi kritik bileşenleri gözden geçirin.
+4. **Cihaz Geçmişi ve Snapshot Dönüşü:** Donanım yükseltmesi sonrası not eklediğinizde sistem bilgisayarın o anki "eski kimliğini" ve tarihçesini kaydeder.
+5. **Modern UI/UX:** Tailwind CSS ve Glassmorphism ile bezenmiş, kusursuz animasyonlu arayüz tasarımı.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+<div align="center">
+  <img src="<img width="1507" height="691" alt="image" src="https://github.com/user-attachments/assets/7d27d761-bae2-4362-b2ee-708572a789f5" />
+" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🛠 Kullanılan Teknolojiler
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- **Frontend:** React (TypeScript), Tailwind CSS, Vite, Axios, React Icons
+- **Backend:** Python, FastAPI, Uvicorn, JSON
+
+## 🚀 Kurulum & Çalıştırma
+
+### 1️⃣ Backend'i Başlatmak İçin:
+REST API servisimiz Python FastAPI tarafından desteklenmektedir. Verileri okumak ve güncellemek için kullanılır.
+```bash
+cd backend
+# Gerekliyse FastAPI kurulumu: pip install fastapi uvicorn
+uvicorn main:app --reload
