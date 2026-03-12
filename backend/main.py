@@ -148,6 +148,14 @@ def add_note(item_id: int, note: NoteModel):
             
     raise HTTPException(status_code=404, detail="Bilgisayar bulunamadı")
 
+@app.on_event("startup")
+def start_background_scanner():
+    import threading
+    from scanner import run_scanner
+    t = threading.Thread(target=run_scanner, daemon=True)
+    t.start()
+    print("[*] FastAPI sunucusu başlatıldı. Arka plan donanım tarama servisi çalışıyor...")
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
