@@ -1,0 +1,2208 @@
+[
+  {
+    "id": 1,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Basın",
+    "ip": "192.168.10.12",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-01-15",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Basın",
+    "ip": "192.168.10.13",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2022-11-10",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2023-05-20",
+        "mesaj": "Personel ayrılışı sebebiyle pasif duruma alındı."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "marka": "Apple iMac 27\"",
+    "mudurluk": "Basın",
+    "ip": "192.168.10.14",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-10900K",
+    "isletim_sistemi": "macOS Ventura",
+    "depolama": "1 TB SSD",
+    "ekran_karti": "Radeon Pro 5300 4GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-02-01",
+        "mesaj": "Grafik tasarım birimine tahsis edildi."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.20.5",
+    "kat": 2,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-03-10",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.20.6",
+    "kat": 2,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2023-03-10",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2024-03-10",
+        "mesaj": "Anakart arızası tespit edildi, servise gönderilecek."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "marka": "Dell Precision 3650",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.20.7",
+    "kat": 2,
+    "ram": "32 GB",
+    "cpu": "Intel Xeon W-1350",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD + 2 TB HDD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-04-12",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "marka": "Dell OptiPlex 3080",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.30.22",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500T",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-09-15",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "marka": "Dell OptiPlex 3080",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.30.23",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500T",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-09-15",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "marka": "HP ProDesk 400 G7",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.11",
+    "kat": "Zemin",
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-06-20",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "marka": "HP ProDesk 400 G7",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.12",
+    "kat": "Zemin",
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-06-20",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "marka": "Lenovo V50t",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.13",
+    "kat": "Zemin",
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-10700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-08-05",
+        "mesaj": "Sunucu sistemi olarak kuruldu."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.50.40",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-05-18",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.50.41",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-09-12",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2026-03-12 03:34",
+        "mesaj": "kk"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.60.15",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "2 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-11-20",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2026-03-12 03:42",
+        "mesaj": "bozuldu",
+        "snapshot": {
+          "ram": "32 GB",
+          "cpu": "Intel Core i9-11900",
+          "depolama": "1 TB NVMe SSD",
+          "ekran_karti": "Intel UHD Graphics 750"
+        }
+      },
+      {
+        "tarih": "2026-03-12 03:42",
+        "mesaj": "jj",
+        "snapshot": {
+          "ram": "16 GB",
+          "cpu": "Intel Core i9-11900",
+          "depolama": "1 TB NVMe SSD",
+          "ekran_karti": "Intel UHD Graphics 750"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.60.16",
+    "kat": 4,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2023-11-20",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Güç kaynağı yandı, parça bekleniyor."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "marka": "HP Z2 G8",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.60.17",
+    "kat": 4,
+    "ram": "64 GB",
+    "cpu": "Intel Xeon W-1390",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "2 TB NVMe SSD",
+    "ekran_karti": "NVIDIA RTX A4000 16GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2023-12-05",
+        "mesaj": "3D Çizim ve Render amaçlı kuruldu."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "marka": "Lenovo ThinkStation P340",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.70.2",
+    "kat": -1,
+    "ram": "64 GB",
+    "cpu": "Intel Xeon W-1290",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "2 TB NVMe SSD + 4 TB HDD",
+    "ekran_karti": "NVIDIA RTX 4000 8GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-01-10",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "marka": "Lenovo ThinkStation P340",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.70.3",
+    "kat": -1,
+    "ram": "64 GB",
+    "cpu": "Intel Xeon W-1290",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "2 TB NVMe SSD + 4 TB HDD",
+    "ekran_karti": "NVIDIA RTX 4000 8GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-01-10",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.70.4",
+    "kat": -1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2023-01-15",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      },
+      {
+        "tarih": "2024-01-20",
+        "mesaj": "Yedek makine olarak depoya kaldırıldı."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.70.5",
+    "kat": -1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i7-10700",
+    "isletim_sistemi": "CentOS 8",
+    "depolama": "1 TB SSD",
+    "ekran_karti": "Intel UHD Graphics 630",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2022-08-30",
+        "mesaj": "Sisteme ilk kayıt yapıldı."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.50",
+    "kat": 0,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.51",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.52",
+    "kat": 0,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.53",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.54",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.55",
+    "kat": 0,
+    "ram": "32 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Park Bahçeler",
+    "ip": "192.168.10.56",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.50",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.51",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.52",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.53",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.54",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.55",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.56",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.57",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Özel Kalem",
+    "ip": "192.168.15.58",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.20.50",
+    "kat": 2,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.20.51",
+    "kat": 2,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.20.52",
+    "kat": 2,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.20.53",
+    "kat": 2,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Bilgi İşlem",
+    "ip": "192.168.20.54",
+    "kat": 2,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.50",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.51",
+    "kat": 3,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.52",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.53",
+    "kat": 3,
+    "ram": "32 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.54",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.55",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.56",
+    "kat": 3,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Hukuk İşleri",
+    "ip": "192.168.25.57",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.50",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.51",
+    "kat": 4,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.52",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.53",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.54",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.55",
+    "kat": 4,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.56",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Fen İşleri",
+    "ip": "192.168.30.57",
+    "kat": 4,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.35.50",
+    "kat": 0,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.35.51",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.35.52",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.35.53",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "İmar ve Şehircilik",
+    "ip": "192.168.35.54",
+    "kat": 0,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.50",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.51",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.52",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Zabıta",
+    "ip": "192.168.40.53",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.50",
+    "kat": 2,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.51",
+    "kat": 2,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.52",
+    "kat": 2,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.53",
+    "kat": 2,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.54",
+    "kat": 2,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Kültür ve Sosyal İşler",
+    "ip": "192.168.45.55",
+    "kat": 2,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.50",
+    "kat": 3,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.51",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.52",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.53",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.54",
+    "kat": 3,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.55",
+    "kat": 3,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Basın",
+    "ip": "192.168.50.56",
+    "kat": 3,
+    "ram": "32 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.50",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.51",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.52",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.53",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.54",
+    "kat": 4,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.55",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.56",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.57",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.58",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.59",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.60",
+    "kat": 4,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Mali Hizmetler",
+    "ip": "192.168.55.61",
+    "kat": 4,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.50",
+    "kat": 0,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.51",
+    "kat": 0,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.52",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.53",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.54",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.55",
+    "kat": 0,
+    "ram": "16 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.56",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.57",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.58",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "macOS Monterey",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.59",
+    "kat": 0,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.60",
+    "kat": 0,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "İnsan Kaynakları",
+    "ip": "192.168.60.61",
+    "kat": 0,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.50",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.51",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.52",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Pasif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.53",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.54",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "marka": "Dell OptiPlex 7090",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.55",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "1 TB NVMe SSD",
+    "ekran_karti": "NVIDIA Quadro P2200 5GB",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.56",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "marka": "Apple Mac mini",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.57",
+    "kat": 1,
+    "ram": "16 GB",
+    "cpu": "Intel Core i5-10500",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Arızalı",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "marka": "Lenovo ThinkCentre M70q",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.58",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Apple M1",
+    "isletim_sistemi": "Windows 10 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Intel UHD Graphics",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "marka": "HP EliteDesk 800 G6",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.59",
+    "kat": 1,
+    "ram": "8 GB",
+    "cpu": "Intel Core i7-11700",
+    "isletim_sistemi": "Ubuntu 22.04 LTS",
+    "depolama": "512 GB SSD",
+    "ekran_karti": "Intel UHD Graphics 750",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "marka": "Asus ExpertCenter D5",
+    "mudurluk": "Destek Hizmetleri",
+    "ip": "192.168.65.60",
+    "kat": 1,
+    "ram": "32 GB",
+    "cpu": "Intel Core i9-11900",
+    "isletim_sistemi": "Windows 11 Pro",
+    "depolama": "256 GB SSD",
+    "ekran_karti": "Apple M1 GPU (8-core)",
+    "durum": "Aktif",
+    "gecmis": [
+      {
+        "tarih": "2024-02-15",
+        "mesaj": "Sisteme yeni alım ile eklendi."
+      }
+    ]
+  }
+]
